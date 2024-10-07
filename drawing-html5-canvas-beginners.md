@@ -7,7 +7,7 @@ Sources:
 
 1. Creating & Resizing the Canvas
 2. Drawing on the Canvas
-3.
+3. Animating on the Canvas
 4.
 5.
 6.
